@@ -12,7 +12,7 @@ The goal of this project is to demonstrate data analysis, SQL-based exploratory 
 ## Tools & Technologies
 - **SQL** – Data cleaning and exploratory data analysis  
 - **Tableau** – Interactive dashboard and visual storytelling  
-
+- **Gemma-AI** - For report generation and beautification 
 ---
 
 ## Dataset
@@ -33,6 +33,7 @@ The goal of this project is to demonstrate data analysis, SQL-based exploratory 
 ![Dashboard Screenshot](dashboard/dashboard_screenshots/full_dashboard.png)
 
 ---
+
 
 ## Disclaimer
 This analysis is exploratory and illustrative in nature. The findings highlight patterns that may be associated with mental health risks but do not diagnose depression or other mental health conditions.
